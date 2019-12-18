@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER 0x0001
 #define MANUFACTURER Casey Timm
 #define PRODUCT waseypad
-#define DESCRIPTION A custom keyboard
+#define DESCRIPTION A custom keypad
 
 /* key matrix size */
 #define MATRIX_ROWS 4
